@@ -7,6 +7,7 @@
 **Computer Vision · Bioimage Analysis · Graph-Based Tracking · Cryptography · Code Analysis**
 
 [![Biohub Project](https://img.shields.io/badge/Featured_Project-Biohub_Cell_Tracking-00A6D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tweak36/biohub-cell-tracking-pipeline)
+[![Tweak Games & Apps](https://img.shields.io/badge/Tweak-Games_%26_Apps-FFD34D?style=for-the-badge&logoColor=black)](https://tweak36.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-TweakFails-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tweakfails)
 
 [![Research Papers](https://img.shields.io/badge/Research-Papers-6f42c1?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tweak36/research-papers)
@@ -19,6 +20,18 @@
 I build reproducible experimental systems at the intersection of machine learning, scientific imaging, graph reasoning, cryptography, and code-driven research. My work focuses on turning difficult real-world data into inspectable and testable pipelines—from 3-D cell tracking and lineage reconstruction to statistical and geographical cryptographic analysis.
 
 I value transparent validation, shareable code, and systems that other researchers can audit, reproduce, and extend.
+
+## Tweak — Games & Apps
+
+I also ship indie mobile games and apps under the **Tweak** name → **[tweak36.github.io](https://tweak36.github.io)**
+
+| App | What it is | Status |
+|---|---|---|
+| 🍋 [**Zesty Swap**](https://tweak36.github.io/#zestyswap) | Juicy fruit match-3 puzzle with blasters, cascades and 50 handcrafted levels · [▶ Trailer](https://youtu.be/YkoBl6agdGA) | Closed testing on Google Play |
+| 🛸 [**Storm Saucer**](https://tweak36.github.io/#stormsaucer) | Drag-to-steer UFO flyer: 8 biome levels with bosses, shield/laser/burst/boost abilities, legendary skins | Coming soon |
+| 🪙 [**PennyPing**](https://tweak36.github.io/#pennyping) | Track every penny: private, offline subscription tracker with renewal reminders | Coming soon |
+
+📫 Contact: [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
 
 ## Featured work
 
