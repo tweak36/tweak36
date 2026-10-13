@@ -28,7 +28,7 @@ I also ship indie mobile games and apps under the **Tweak** name → **[tweak36.
 | App | What it is | Status |
 |---|---|---|
 | 🍋 [**Zesty Swap**](https://tweak36.github.io/#zestyswap) | Juicy fruit match-3 puzzle with blasters, cascades and 50 handcrafted levels · [▶ Trailer](https://youtu.be/YkoBl6agdGA) | Closed testing on Google Play |
-| 🛸 [**Storm Saucer**](https://tweak36.github.io/#stormsaucer) | Drag-to-steer UFO flyer: 8 biome levels with bosses, shield/laser/burst/boost abilities, legendary skins | Coming soon |
+| 🛸 [**Storm Saucer**](https://tweak36.github.io/#stormsaucer) | Drag-to-steer UFO flyer: 8 biome levels with bosses, 10 alien weapons, alien pilots, legendary skins · [▶ Trailer](https://youtu.be/Xdj9Qfuv86k) | Coming soon |
 | 🪙 [**PennyPing**](https://tweak36.github.io/#pennyping) | Track every penny: private, offline subscription tracker with renewal reminders | Coming soon |
 
 📫 Contact: [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
