@@ -2,64 +2,66 @@
 
 # William Duckworth
 
-### Researcher & Applied ML Builder
+### Empirical ML Researcher · Model Evaluator · Applied Systems Builder
 
-**Computer Vision · Bioimage Analysis · Graph-Based Tracking · Cryptography · Code Analysis**
+I build and evaluate machine-learning systems for scientific imaging, multimodal data, and adversarial testing.
 
-[![Biohub Project](https://img.shields.io/badge/Featured_Project-Biohub_Cell_Tracking-00A6D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tweak36/biohub-cell-tracking-pipeline)
-[![Tweak Games & Apps](https://img.shields.io/badge/Tweak-Games_%26_Apps-FFD34D?style=for-the-badge&logoColor=black)](https://tweak36.github.io)
-[![YouTube](https://img.shields.io/badge/YouTube-TweakFails-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tweakfails)
+[![Kaggle](https://img.shields.io/badge/Kaggle-tweakai-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tweakai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Duckworth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-d-4a4a56322)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Tweak_Games_%26_Apps-FFD34D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tweak36.github.io/)
+[![Email](https://img.shields.io/badge/Email-sk8furniture%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk8furniture@gmail.com)
 
-[![Research Papers](https://img.shields.io/badge/Research-Papers-6f42c1?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tweak36/research-papers)
-[![Beale Cipher Analysis](https://img.shields.io/badge/Cryptography-Beale_Cipher_Analysis-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/tweak36/beale-cipher-1-analysis)
+**Kaggle Competitions Expert · 3 silver-level results · 2 bronze-level results**
+
+[Competition profile](https://www.kaggle.com/tweakai) · [Competition writeups](https://www.kaggle.com/tweakai/writeups) · [YouTube](https://www.youtube.com/@tweakfails)
 
 </div>
 
-## About
+## About me
 
-I build reproducible experimental systems at the intersection of machine learning, scientific imaging, graph reasoning, cryptography, and code-driven research. My work focuses on turning difficult real-world data into inspectable and testable pipelines—from 3-D cell tracking and lineage reconstruction to statistical and geographical cryptographic analysis.
+I am an empirical machine-learning researcher and builder focused on model evaluation, scientific imaging, computer vision, and reproducible experimentation. I enjoy taking difficult, messy problems from first audit through working systems: inspecting data, designing tests, building pipelines, studying failures, and validating what actually improves performance.
 
-I value transparent validation, shareable code, and systems that other researchers can audit, reproduce, and extend.
+My public work spans AI red teaming, medical and biological imaging, segmentation, object tracking, multimodal classification, cryptographic analysis, simulation, and mobile products. I care about measurable results, transparent validation, and artifacts that other people can inspect and reproduce.
 
-## Tweak — Games & Apps
+## Selected work
 
-I also ship indie mobile games and apps under the **Tweak** name → **[tweak36.github.io](https://tweak36.github.io)**
-
-| App | What it is | Status |
-|---|---|---|
-| 🍋 [**Zesty Swap**](https://tweak36.github.io/#zestyswap) | Juicy fruit match-3 puzzle with blasters, cascades and 50 handcrafted levels · [▶ Trailer](https://youtu.be/YkoBl6agdGA) | Closed testing on Google Play |
-| 🛸 [**Storm Saucer**](https://tweak36.github.io/#stormsaucer) | Drag-to-steer UFO flyer: 8 biome levels with bosses, 10 alien weapons, alien pilots, legendary skins · [▶ Trailer](https://youtu.be/Xdj9Qfuv86k) | Coming soon |
-| 🪙 [**PennyPing**](https://tweak36.github.io/#pennyping) | Track every penny: private, offline subscription tracker with renewal reminders | Coming soon |
-
-📫 Contact: [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
-
-## Featured work
-
-| Project | Focus |
+| Area | Project and result |
 |---|---|
-| [**Biohub Cell Tracking Pipeline**](https://github.com/tweak36/biohub-cell-tracking-pipeline) | Reproducible multi-model pipeline for 3-D fluorescence cell tracking, graph repair, motion association, and lineage reconstruction. Includes training code, validation records, a production reference notebook, and a detailed technical architecture. |
-| [**Beale Cipher 1 Analysis**](https://github.com/tweak36/beale-cipher-1-analysis) | Reproducible statistical, geographical, historical, and cryptographic analysis with documented null tests and Python implementations. |
-| [**Research Papers**](https://github.com/tweak36/research-papers) | Research artifacts, experiments, and reproducible technical work. |
+| **AI safety & evaluation** | [**OpenAI gpt-oss-20b Red Teaming Report**](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/writeups/tweak-ais-red-teaming-report-for-gpt-oss-20b) — built a fixed-seed black-box evaluation harness and published reproducible findings covering unsafe tool use, data exfiltration, and deceptive reconnaissance. [Harness](https://www.kaggle.com/code/tweakai/tweak-ai-red-teaming-harness) · [Finding 1](https://www.kaggle.com/datasets/tweakai/tweak-ai-findings-1-tool-use) · [Finding 2](https://www.kaggle.com/datasets/tweakai/tweak-ai-findings-2-data-exfiltration) · [Finding 3](https://www.kaggle.com/datasets/tweakai/tweak-ai-findings-3-deception) |
+| **Scientific imaging** | [**Biohub Cell Tracking During Development**](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) — silver-level finish with an end-to-end 3-D cell-detection, tracking, graph-repair, and lineage-reconstruction pipeline. |
+| **Segmentation** | [**Vesuvius Challenge: Surface Detection**](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/writeups/less-is-more-a-single-skeleton-aware-nnu-net-for) — silver-medal solution built around a single skeleton-aware nnU-Net and topology-aware validation. |
+| **Medical imaging** | [**RSNA Knee Abnormality Detection**](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) — multimodal MRI classification experiments across anatomical localization, multi-plane sampling, ROI models, ensembling, and hidden-test validation. |
+| **Cryptanalysis** | [**Beale Cipher 1 Analysis**](https://github.com/tweak36/beale-cipher-1-analysis) — reproducible statistical, geographic, historical, and cryptographic analysis with documented null tests and Python implementations. |
+| **Research & engineering** | [**Independent Research Papers**](https://github.com/tweak36/research-papers) — simulations, technical specifications, and reproducible research artifacts spanning rover mobility, lunar systems, and mathematical exploration. |
+| **Products** | [**Tweak Games & Apps**](https://tweak36.github.io/) — mobile games and utilities including Zesty Swap, Storm Saucer, Trail Torque, and PennyPing. |
 
-## Areas of interest
+## AI safety and model evaluation
 
-- Computer vision and scientific image analysis
-- 3-D fluorescence microscopy and cell-lineage tracking
-- Detection, association, graph optimization, and topology repair
-- Cryptography, code analysis, and statistical pattern testing
-- Reproducible machine-learning systems and honest validation
+My red-team work emphasizes reproducibility rather than isolated anecdotes. The public gpt-oss-20b project includes a deterministic test harness, structured adversarial prompts, captured model behavior, threat analysis, and independently downloadable findings.
 
-## Tools
+- [Read the full competition report](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/writeups/tweak-ais-red-teaming-report-for-gpt-oss-20b)
+- [Run or inspect the evaluation harness](https://www.kaggle.com/code/tweakai/tweak-ai-red-teaming-harness)
+- [Browse all Kaggle writeups](https://www.kaggle.com/tweakai/writeups)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## Competition work
 
-## Watch and follow
+My competition projects center on learning quickly from evidence: establishing trustworthy validation, finding pipeline failures, comparing model families, and packaging complete inference systems under real compute and runtime constraints.
 
-Experiments, builds, games, and everything that does not go according to plan:
+**Competition record as of October 2026:** three silver-level and two bronze-level results across completed competitions and active standings. See my [Kaggle profile](https://www.kaggle.com/tweakai) for the current record.
 
-[![Visit TweakFails on YouTube](https://img.shields.io/badge/Visit_TweakFails_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tweakfails)
+## Methods and tools
+
+- **Machine learning:** PyTorch, deep learning, model evaluation, ensembling, calibration, ablation testing
+- **Vision:** 2-D/3-D segmentation, classification, object tracking, multimodal medical imaging
+- **Research:** experiment design, error analysis, bootstrap evaluation, reproducibility, technical writing
+- **Data:** Python, NumPy, pandas, SciPy, Jupyter, DICOM and scientific-image pipelines
+- **Systems:** GPU training and inference, checkpoint recovery, constrained-runtime deployment, Git
+
+## Elsewhere
+
+- **Kaggle:** [kaggle.com/tweakai](https://www.kaggle.com/tweakai)
+- **LinkedIn:** [William Duckworth](https://www.linkedin.com/in/william-d-4a4a56322)
+- **Portfolio:** [tweak36.github.io](https://tweak36.github.io/)
+- **YouTube:** [@tweakfails](https://www.youtube.com/@tweakfails)
+- **Email:** [sk8furniture@gmail.com](mailto:sk8furniture@gmail.com)
+
