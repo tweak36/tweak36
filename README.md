@@ -9,7 +9,7 @@ I build and evaluate machine-learning systems for scientific imaging, multimodal
 [![Kaggle](https://img.shields.io/badge/Kaggle-tweakai-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tweakai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Duckworth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-d-4a4a56322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Tweak_Games_%26_Apps-FFD34D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tweak36.github.io/)
-[![Email](https://img.shields.io/badge/Email-sk8furniture%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk8furniture@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tweakagent%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tweakagent@gmail.com)
 
 **Kaggle Competitions Expert · 3 silver-level results · 2 bronze-level results**
 
@@ -63,5 +63,5 @@ My competition projects center on learning quickly from evidence: establishing t
 - **LinkedIn:** [William Duckworth](https://www.linkedin.com/in/william-d-4a4a56322)
 - **Portfolio:** [tweak36.github.io](https://tweak36.github.io/)
 - **YouTube:** [@tweakfails](https://www.youtube.com/@tweakfails)
-- **Email:** [sk8furniture@gmail.com](mailto:sk8furniture@gmail.com)
+- **Email:** [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
 
