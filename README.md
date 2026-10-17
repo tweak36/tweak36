@@ -10,6 +10,7 @@ I build and evaluate machine-learning systems for scientific imaging, multimodal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Duckworth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-d-4a4a56322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Tweak_Games_%26_Apps-FFD34D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tweak36.github.io/)
 [![Email](https://img.shields.io/badge/Email-tweakagent%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tweakagent@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Tweakagent-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tweakagent)
 
 **Kaggle Competitions Expert · 3 silver-level results · 2 bronze-level results**
 
@@ -64,4 +65,5 @@ My competition projects center on learning quickly from evidence: establishing t
 - **Portfolio:** [tweak36.github.io](https://tweak36.github.io/)
 - **YouTube:** [@tweakfails](https://www.youtube.com/@tweakfails)
 - **Email:** [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
+- **Telegram:** [@Tweakagent](https://t.me/Tweakagent)
 
