@@ -26,9 +26,9 @@ My public work spans AI red teaming, medical and biological imaging, segmentatio
 
 ## Author
 
-I am the author of the forthcoming book **_Deciphering Beale Cipher 1: A Comprehensive Statistical and Geographical Analysis_**. The work investigates the hypothesis that Beale Cipher 1 encodes geographic coordinates in Bedford County, Virginia, combining historical context with reproducible statistical, geographic, and cryptographic analysis.
+I am the author of **_Deciphering Beale Cipher 1: A Comprehensive Statistical, Geographical, and Historical Analysis_**. The book investigates the hypothesis that Beale Cipher 1 encodes geographic coordinates in Bedford County, Virginia, combining historical context with reproducible statistical, geographic, and cryptographic analysis.
 
-[Explore the supporting analysis and code](https://github.com/tweak36/beale-cipher-1-analysis)
+[Paperback on Amazon](https://www.amazon.com/dp/B0HNDPPHSV) · [Hardcover on Amazon](https://www.amazon.com/dp/B0HNDGRC1J) · [Supporting analysis and code](https://github.com/tweak36/beale-cipher-1-analysis)
 
 ## Selected work
 
@@ -38,7 +38,7 @@ I am the author of the forthcoming book **_Deciphering Beale Cipher 1: A Compreh
 | **Scientific imaging** | [**Biohub Cell Tracking During Development**](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) — silver-level finish with an end-to-end 3-D cell-detection, tracking, graph-repair, and lineage-reconstruction pipeline. |
 | **Segmentation** | [**Vesuvius Challenge: Surface Detection**](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/writeups/less-is-more-a-single-skeleton-aware-nnu-net-for) — silver-medal solution built around a single skeleton-aware nnU-Net and topology-aware validation. |
 | **Medical imaging** | [**RSNA Knee Abnormality Detection**](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) — multimodal MRI classification experiments across anatomical localization, multi-plane sampling, ROI models, ensembling, and hidden-test validation. |
-| **Book** | **_Deciphering Beale Cipher 1: A Comprehensive Statistical and Geographical Analysis_** — forthcoming publication supported by public code, data analysis, and documented methodology. |
+| **Book** | [**_Deciphering Beale Cipher 1: A Comprehensive Statistical, Geographical, and Historical Analysis_**](https://www.amazon.com/dp/B0HNDPPHSV) — published book supported by public code, data analysis, and documented methodology. [Hardcover](https://www.amazon.com/dp/B0HNDGRC1J) · [Research repository](https://github.com/tweak36/beale-cipher-1-analysis) |
 | **Cryptanalysis** | [**Beale Cipher 1 Analysis**](https://github.com/tweak36/beale-cipher-1-analysis) — reproducible statistical, geographic, historical, and cryptographic analysis with documented null tests and Python implementations. |
 | **Research & engineering** | [**Independent Research Papers**](https://github.com/tweak36/research-papers) — simulations, technical specifications, and reproducible research artifacts spanning rover mobility, lunar systems, and mathematical exploration. |
 | **Products** | [**Tweak Games & Apps**](https://tweak36.github.io/) — mobile games and utilities including Zesty Swap, Storm Saucer, Trail Torque, and PennyPing. |
