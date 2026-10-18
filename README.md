@@ -12,7 +12,7 @@ I build and evaluate machine-learning systems for scientific imaging, multimodal
 [![Email](https://img.shields.io/badge/Email-tweakagent%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tweakagent@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Tweakagent-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tweakagent)
 
-**Kaggle Competitions Expert · 3 silver-level results · 2 bronze-level results**
+**Kaggle Competitions Expert**
 
 [Competition profile](https://www.kaggle.com/tweakai) · [Competition writeups](https://www.kaggle.com/tweakai/writeups) · [YouTube](https://www.youtube.com/@tweakfails)
 
