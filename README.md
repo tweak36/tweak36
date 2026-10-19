@@ -26,9 +26,17 @@ My public work spans AI red teaming, medical and biological imaging, segmentatio
 
 ## Author
 
+### _Deciphering Beale Cipher 1_
+
 I am the author of **_Deciphering Beale Cipher 1: A Comprehensive Statistical, Geographical, and Historical Analysis_**. The book investigates the hypothesis that Beale Cipher 1 encodes geographic coordinates in Bedford County, Virginia, combining historical context with reproducible statistical, geographic, and cryptographic analysis.
 
 [Paperback on Amazon](https://www.amazon.com/dp/B0HNDPPHSV) · [Hardcover on Amazon](https://www.amazon.com/dp/B0HNDGRC1J) · [Supporting analysis and code](https://github.com/tweak36/beale-cipher-1-analysis)
+
+### _Hauntingly Delicious_
+
+**_Hauntingly Delicious: Enchanting Eats for a Spooky Soiree_** is an illustrated seasonal cookbook featuring Halloween recipes, themed presentation, and original creative direction.
+
+[Paperback on Amazon](https://www.amazon.com/dp/B0HNGSHHBV) · [Hardcover on Amazon](https://www.amazon.com/dp/B0HNGMLZTC)
 
 ## Selected work
 
