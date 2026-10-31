@@ -8,7 +8,7 @@ I build and evaluate machine-learning systems for scientific imaging, multimodal
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-tweakai-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tweakai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Duckworth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-d-4a4a56322)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Tweak_Games_%26_Apps-FFD34D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tweak36.github.io/)
+[![Studio](https://img.shields.io/badge/Studio-TWEAKFAILS_Games_%26_Apps-FFD34D?style=for-the-badge&logoColor=111111)](https://tweakfails.com/)
 [![Email](https://img.shields.io/badge/Email-tweakagent%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tweakagent@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Tweakagent-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tweakagent)
 
@@ -49,7 +49,7 @@ I am the author of **_Deciphering Beale Cipher 1: A Comprehensive Statistical, G
 | **Book** | [**_Deciphering Beale Cipher 1: A Comprehensive Statistical, Geographical, and Historical Analysis_**](https://www.amazon.com/dp/B0HNDPPHSV) — published book supported by public code, data analysis, and documented methodology. [Hardcover](https://www.amazon.com/dp/B0HNDGRC1J) · [Research repository](https://github.com/tweak36/beale-cipher-1-analysis) |
 | **Cryptanalysis** | [**Beale Cipher 1 Analysis**](https://github.com/tweak36/beale-cipher-1-analysis) — reproducible statistical, geographic, historical, and cryptographic analysis with documented null tests and Python implementations. |
 | **Research & engineering** | [**Independent Research Papers**](https://github.com/tweak36/research-papers) — simulations, technical specifications, and reproducible research artifacts spanning rover mobility, lunar systems, and mathematical exploration. |
-| **Products** | [**Tweak Games & Apps**](https://tweak36.github.io/) — mobile games and utilities including Zesty Swap, Storm Saucer, Trail Torque, and PennyPing. |
+| **Products** | [**TWEAKFAILS Games & Apps**](https://tweakfails.com/): mobile games and utilities including Zesty Swap, Storm Saucer, Trail Torque, and PennyPing. |
 
 ## AI safety and model evaluation
 
@@ -77,7 +77,7 @@ My competition projects center on learning quickly from evidence: establishing t
 
 - **Kaggle:** [kaggle.com/tweakai](https://www.kaggle.com/tweakai)
 - **LinkedIn:** [William Duckworth](https://www.linkedin.com/in/william-d-4a4a56322)
-- **Portfolio:** [tweak36.github.io](https://tweak36.github.io/)
+- **Studio:** [tweakfails.com](https://tweakfails.com/)
 - **YouTube:** [@tweakfails](https://www.youtube.com/@tweakfails)
 - **Email:** [tweakagent@gmail.com](mailto:tweakagent@gmail.com)
 - **Telegram:** [@Tweakagent](https://t.me/Tweakagent)
